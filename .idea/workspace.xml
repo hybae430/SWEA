@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1eec69dd-395f-4e40-b87e-2f7856b795bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/SWEA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SWEA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1258.py" beforeDir="false" afterPath="$PROJECT_DIR$/1258.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +46,8 @@
     <property name="last_opened_file_path" value="$USER_HOME$/test" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.2005">
-    <configuration name="1258" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1983">
+    <configuration name="1226" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SWEA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,7 +59,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1258.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1226.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1545" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1861" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SWEA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,7 +80,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1545.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1861.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1859" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1983" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SWEA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,7 +101,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1859.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1983.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1926" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1984" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SWEA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,7 +122,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1926.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1984.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1986" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SWEA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,7 +143,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2005.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1986.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,19 +153,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1258" />
-      <item itemvalue="Python.1545" />
-      <item itemvalue="Python.1859" />
-      <item itemvalue="Python.1926" />
-      <item itemvalue="Python.2005" />
+      <item itemvalue="Python.1861" />
+      <item itemvalue="Python.1226" />
+      <item itemvalue="Python.1986" />
+      <item itemvalue="Python.1984" />
+      <item itemvalue="Python.1983" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2005" />
-        <item itemvalue="Python.1859" />
-        <item itemvalue="Python.1545" />
-        <item itemvalue="Python.1926" />
-        <item itemvalue="Python.1258" />
+        <item itemvalue="Python.1983" />
+        <item itemvalue="Python.1984" />
+        <item itemvalue="Python.1986" />
+        <item itemvalue="Python.1226" />
+        <item itemvalue="Python.1861" />
       </list>
     </recent_temporary>
   </component>
@@ -196,6 +193,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -205,38 +203,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="172" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596614718437" />
-    <state width="1515" height="258" key="GridCell.Tab.0.bottom" timestamp="1596644225419">
+    <state width="826" height="208" key="GridCell.Tab.0.bottom" timestamp="1596787097497">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="258" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596644225419" />
-    <state width="1515" height="258" key="GridCell.Tab.0.center" timestamp="1596644225419">
+    <state width="826" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596787097497" />
+    <state width="826" height="208" key="GridCell.Tab.0.center" timestamp="1596787097496">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="258" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596644225419" />
-    <state width="1515" height="258" key="GridCell.Tab.0.left" timestamp="1596644225419">
+    <state width="826" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596787097496" />
+    <state width="826" height="208" key="GridCell.Tab.0.left" timestamp="1596787097496">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="258" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596644225419" />
-    <state width="1515" height="258" key="GridCell.Tab.0.right" timestamp="1596644225419">
+    <state width="826" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596787097496" />
+    <state width="826" height="208" key="GridCell.Tab.0.right" timestamp="1596787097496">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="258" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596644225419" />
-    <state width="1515" height="258" key="GridCell.Tab.1.bottom" timestamp="1596644227446">
+    <state width="826" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596787097496" />
+    <state width="826" height="252" key="GridCell.Tab.1.bottom" timestamp="1596787047067">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596644227446" />
-    <state width="1515" height="258" key="GridCell.Tab.1.center" timestamp="1596644227445">
+    <state width="826" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596787047067" />
+    <state width="826" height="252" key="GridCell.Tab.1.center" timestamp="1596787047067">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596644227445" />
-    <state width="1515" height="258" key="GridCell.Tab.1.left" timestamp="1596644227445">
+    <state width="826" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596787047067" />
+    <state width="826" height="252" key="GridCell.Tab.1.left" timestamp="1596787047066">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596644227445" />
-    <state width="1515" height="258" key="GridCell.Tab.1.right" timestamp="1596644227446">
+    <state width="826" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596787047066" />
+    <state width="826" height="252" key="GridCell.Tab.1.right" timestamp="1596787047067">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596644227446" />
+    <state width="826" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596787047067" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -245,6 +243,21 @@
           <url>file://$PROJECT_DIR$/1859.py</url>
           <line>2</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1861.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1226.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1983.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
