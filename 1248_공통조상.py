@@ -17,8 +17,10 @@ for tc in range(1, T + 1):
     grand_X, grand_Y = [], []
     for i in range(0, E * 2, 2):
         p, c = infos[i], infos[i + 1]
-        if L[p]: R[p] = c
-        else: L[p] = c
+        if L[p]:
+            R[p] = c
+        else:
+            L[p] = c
         P[c] = p
     grandp(X, grand_X)
     grandp(Y, grand_Y)
