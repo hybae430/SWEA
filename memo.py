@@ -26,8 +26,8 @@ pre_trav = []
 in_trav = []
 post_trav = []
 
-E = 14
-nums = [1, 2, 1, 3, 2, 4, 2, 5, 3, 6, 3, 7, 4, 8, 4, 9, 5, 10, 5, 11, 6, 12, 6, 13, 7, 14, 7, 15]
+E = int(input())
+nums = list(map(int, input().split()))
 bin_tree = [0] * (E ** 2)
 
 for n in range(E):
@@ -56,7 +56,6 @@ preorder(1)
 inorder(1)
 postorder(1)
 
-print(bin_tree)
 print('전위순회:', end =" ")
 for i in pre_trav:
     print(i, end=" ")

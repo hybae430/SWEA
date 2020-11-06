@@ -1,5 +1,3 @@
-import sys
-sys.stdin = open('input.txt', 'r')
 T = int(input())
 def form(a):
     return int(a) / 100
